@@ -38,7 +38,7 @@
             "action" : 
             {
                 "type" : "connectToServer",
-                "ip" : "weneed.coffee:25565"
+                "ip" : "192.99.125.92:25565"
             }
         },
 		
@@ -52,7 +52,7 @@
             "action" : 
             {
                 "type" : "connectToServer",
-                "ip" : "192.99.125.92:25565"
+                "ip" : "dms.zapto.org:25565"
             }
         },
         
